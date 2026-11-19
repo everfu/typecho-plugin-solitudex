@@ -1,0 +1,8 @@
+/dist/
+/.runtime/
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.log
+.DS_Store
